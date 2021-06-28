@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Project 1: Melanin Museum",
+      "live": "https://virtual-melanin-museum.netlify.app/",
+      "git": "https://github.com/clums19/Virtual-Melanin-Museum",
+      "image": "https://i.imgur.com/NFAhHlk.jpg"
+    },
+    {
+      "name": "Project 2: Design Time",
+      "live": "https://design-time.herokuapp.com/",
+      "git": "https://github.com/clums19/design-time",
+      "image": "https://i.imgur.com/9md39YA.jpg"
+    }
+  ]
