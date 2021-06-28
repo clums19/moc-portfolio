@@ -28,6 +28,7 @@ app.get('/projects', (req, res) => {
 app.get('/about', (req, res) => {
     res.json(about);
 });
+console.log('update');
 
 // Listen
 const PORT = process.env.PORT || 4000;
